@@ -61,6 +61,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+### Motivation 
+
+Motivated from this Repository [https://github.com/PolarisStar2000/My_Portfolio](https://github.com/PolarisStar2000/My_Portfolio)
+
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)

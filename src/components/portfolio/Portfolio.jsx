@@ -4,8 +4,6 @@ import IMG1 from "../../assets/CodeforcesEmail.png";
 import IMG2 from "../../assets/marsrover.png";
 import IMG3 from "../../assets/dogimages.png";
 import IMG4 from "../../assets/tictactoe.png";
-import IMG5 from "../../assets/Me.png";
-import IMG6 from "../../assets/Me.png";
 import React from "react";
 
 //Portfolio function
